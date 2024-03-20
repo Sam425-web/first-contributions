@@ -1929,7 +1929,7 @@
 - [Harry Johnson](https://github.com/Hjohnson7)
 - [Ghayd Hanaysheh](https://github.com/Ghayd-Adnan)
 - [bakerdude39](https://github.com/bakerdude39)
-- [Ye Naing Tun](https://github.com/Sam425-web)
+- [Ye Naing Tun](https://github.com/yenaingtun-dev)
 - [Ashutosh](https://github.com/AshutoshShrestha)
 - [SZH](https://github.com/Shweryl)
 - [Ryga](https://github.com/ryga9)
